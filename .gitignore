@@ -1,0 +1,22 @@
+# IDE
+.idea
+.tm_properties
+
+# Windows
+**/Thumbs.db
+**/Desktop.ini
+
+# OS X
+**/.DS_Store
+**/.Spotlight-V100
+**/.Trashes
+
+# Nodejs
+node_modules
+**/npm-debug.log
+
+# App
+**/config.json*
+!**/config.json.example
+fio-notifier.log
+fio-notifier.error.log

@@ -1,0 +1,16 @@
+{
+  "name": "fio-notifier",
+  "version": "0.0.1",
+  "description": "Fio banka account transactions notification script",
+  "main": "fio-notifier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lukas Vorlicek",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.12.0",
+    "node-notifier": "^4.5.0",
+    "numeral": "^1.5.3"
+  }
+}

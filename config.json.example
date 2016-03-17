@@ -1,0 +1,12 @@
+{
+  "accounts": [
+    {
+      "name": "Custom name",
+      "token": "r23JOn3r5AwV6N6QYhGL1WkpVdX49k0fMy2453Pb929gxN66BNaxEGL9sYcr7AOg"
+    },
+    {
+      "name": "Account 2",
+      "token": "Ckf890g7Smh49vqxq5T168q0lL3YXR6imy10Cor4zUis6dD51596g106KSA1WsPY"
+    }
+  ]
+}

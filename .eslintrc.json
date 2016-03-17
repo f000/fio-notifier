@@ -1,0 +1,15 @@
+{
+  "extends": "standard",
+  "env": {
+    "browser": true,
+    "node": true,
+    "jquery": true
+  },
+  "rules": {
+    "semi": [2, "always"],
+    "indent": [2, 4]
+  },
+  "globals": {
+    "require": false
+  }
+}
