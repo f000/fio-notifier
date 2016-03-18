@@ -1,5 +1,7 @@
 # Fio Notifier
 
+![OS X Notification Center](img/screenshot1.png)
+
 This script fetches latest transactions on your Fio banka account, through Fio API, and displays them in Notification Center for Mac, notify-osd/libnotify-bin for Linux, Toasters for Windows 8/10, or taskbar Balloons for earlier Windows versions. If none of these requirements are met, Growl is used.
 
 Supports multiple accounts and currencies.
