@@ -15,7 +15,7 @@ Supports multiple accounts and currencies.
 
 ## Installation
 
-1. Run `npm install`
+1. Run `npm install` or `yarn install`
 
 2. Generate and add your Fio API key(s) to the `config.json` file.
 
