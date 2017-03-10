@@ -2,4 +2,4 @@
 
 cd "$(dirname "$0")"
 
-node fio-notifier.js
+/usr/local/bin/node fio-notifier.js

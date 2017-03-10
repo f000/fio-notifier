@@ -10,13 +10,13 @@ var notifier = require('node-notifier');
 var moment = require('moment');
 var numeral = require('numeral');
 
-numeral.language('cs', {
+numeral.register('locale', 'cs', {
     delimiters: {
         thousands: ' ',
         decimal: ','
     }
 });
-numeral.language('cs');
+numeral.locale('cs');
 
 config.accounts.forEach(function (account) {
     accountNotify(account);

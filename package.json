@@ -9,8 +9,8 @@
   "author": "Lukas Vorlicek",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.12.0",
-    "node-notifier": "^4.5.0",
-    "numeral": "^1.5.3"
+    "moment": "^2.17.1",
+    "node-notifier": "^5.0.2",
+    "numeral": "^2.0.4"
   }
 }
